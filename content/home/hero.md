@@ -7,8 +7,8 @@ hero_media: logovertical.png
 design:
   background:
     gradient_angle: 0
-    gradient_start: 'rgb(224,223,255)'
-    gradient_end: 'rgb(153,238,255)'
+    gradient_start: 'rgb(255,255,255)'
+    gradient_end: 'rgb(12, 39, 77)'
     text_color_light: false
 cta:
   url: '#courses'
