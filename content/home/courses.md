@@ -1,9 +1,9 @@
 ---
 widget: portfolio
-widget_id: hola
+widget_id: explore
 headless: true
 weight: 30
-title: Hola
+title: Explore top courses
 subtitle: null
 content:
   filters:
