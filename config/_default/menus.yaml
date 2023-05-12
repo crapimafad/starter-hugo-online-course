@@ -4,23 +4,34 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: INICIO
     url: '/'
     weight: 10
-  - name: Courses
+  - name: EL C.R.A.
+    pageRef: elcra/_index.md
     weight: 20
-    identifier: courses
-  - name: Data science
-    PageRef: course/data-science/_index.md
-    weight: 10
-    parent: courses
-  - name: Robotics
-    PageRef: course/robotics/_index.md
-    weight: 20
-    parent: courses
-  - name: Blog
-    PageRef: post/_index.md
+  - name: SECRETARÍA
     weight: 30
-  - name: Contact
+    identifier: secretaria
+  - name: Documentación
+    PageRef: secretaria/documentacion/_index.md
+    weight: 10
+    parent: secretaria
+  - name: Horario y Calendario
+    PageRef: secretaria/horarioycalendario/_index.md
+    weight: 20
+    parent: secretaria
+  - name: Libros de texto
+    PageRef: secretaria/libros/_index.md
+    weight: 30
+    parent: secretaria
+  - name: Abisos e información
+    PageRef: secretaria/avisos/_index.md
+    weight: 40
+    parent: secretaria  
+  - name: PROYECTOS
+    PageRef: proyectos/_index.md
+    weight: 40
+  - name: CONTACTO
     PageRef: contact/index.md
     weight: 60
