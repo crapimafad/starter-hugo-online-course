@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: Online Course Template
-hero_media: icon.png
+hero_media: logovertical.png
 design:
   background:
     gradient_angle: 0
