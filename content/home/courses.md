@@ -3,7 +3,7 @@ widget: portfolio
 widget_id: explore
 headless: true
 weight: 30
-title: Explore top courses
+title: QUÉ HACEMOS
 subtitle: null
 content:
   filters:
@@ -15,11 +15,11 @@ content:
       - preface
   filter_default: 0
   filter_button:
-    - name: All Courses
+    - name: Todos los cursos
       tag: "*"
-    - name: Previous
+    - name: Previo
       tag: previous
-    - name: Current
+    - name: Actual
       tag: current
 design:
   columns: "1"
