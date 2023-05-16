@@ -7,8 +7,8 @@ subtitle: Conoce nuestro centro, los profesionales que trabajan en él. Descubre
 feature:
   - icon: users
     icon_pack: fas
-    name: Slides
-    description: null
+    name: ORGANIZACIÓN
+    description: Conoce a quienes formamos el C.R.A. PIMAFAD
   - icon: video
     icon_pack: fas
     name: Video
