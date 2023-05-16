@@ -1,29 +1,3 @@
----
-widget: hero
-headless: true
-weight: 10
-title: Online Course Template
-hero_media: logovertical.png
-design:
-  background:
-    gradient_angle: 0
-    gradient_start: 'rgb(255,255,255)'
-    gradient_end: 'rgb(12, 39, 77)'
-    text_color_light: false
-cta:
-  url: '#courses'
-  label: Explore our courses
-  icon_pack: fas
-  icon: user-graduate
-cta_alt:
-  url:
-  label:
-cta_note:
-  label:
-advanced:
-  css_class: fullscreen
----
-
 # Introducción
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc nec leo eget velit hendrerit feugiat vel nec lacus. Phasellus rutrum velit vel urna aliquam, id vestibulum mi tristique. Fusce euismod volutpat vulputate. Nunc venenatis purus non est vulputate vestibulum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
