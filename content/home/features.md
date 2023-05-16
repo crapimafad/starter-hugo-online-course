@@ -2,10 +2,10 @@
 widget: featurette
 headless: true
 weight: 20
-title: Features
-subtitle: ✨ Teach _anything_ with
+title: QUÉ HACEMOS
+subtitle: Conoce nuestro centro, los profesionales que trabajan en él. Descubre nuestro Proyecto Educativo y nuestras normas. Infórmate sobre trámites y solicitudes oficiales.
 feature:
-  - icon: chalkboard-teacher
+  - icon: users
     icon_pack: fas
     name: Slides
     description: null
@@ -19,4 +19,3 @@ feature:
     description: null
 widget_id: Segunda modificación.
 ---
-E﻿sto es una prueba.
