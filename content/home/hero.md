@@ -1,40 +1,33 @@
-# Introducción
+---
+widget: hero
+headless: true
+weight: 10
+title: Online Course Template
+hero_media: logovertical.png
+design:
+  background:
+    gradient_angle: 0
+    gradient_start: 'rgb(255,255,255)'
+    gradient_end: 'rgb(12, 39, 77)'
+    text_color_light: false
+cta:
+  url: '#courses'
+  label: Explore our courses
+  icon_pack: fas
+  icon: user-graduate
+cta_alt:
+  url:
+  label:
+cta_note:
+  label:
+advanced:
+  css_class: fullscreen
+---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc nec leo eget velit hendrerit feugiat vel nec lacus. Phasellus rutrum velit vel urna aliquam, id vestibulum mi tristique. Fusce euismod volutpat vulputate. Nunc venenatis purus non est vulputate vestibulum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+<br>
 
-![Imagen de ejemplo](ruta/de/la/imagen.jpg)
+Published with the [Wowchemy Website Builder](https://wowchemy.com/) for Hugo.
 
-## Sección Central
+Introduce your courses here.
 
-### Título de la sección
-
-Breve subtítulo que complementa el título principal.
-
-- ![Icono 1](ruta/icono1.png)
-- ![Icono 2](ruta/icono2.png)
-- ![Icono 3](ruta/icono3.png)
-
-## QUÉ HACEMOS
-
-### Título de la sección
-
-- ![Icono 1](ruta/icono1.png) Breve descripción del primer icono.
-- ![Icono 2](ruta/icono2.png) Breve descripción del segundo icono.
-- ![Icono 3](ruta/icono3.png) Breve descripción del tercer icono.
-
-## Contacto
-
-<div style="display: flex;">
-    <div style="flex: 60%;">
-        ¿NECESITAS CONTACTAR?<br>
-        Para todas nuestras comunicaciones, utilizamos la plataforma oficial EducamosCLM. Para nuestras familias, esta es la vía principal de comunicación con el profesorado y Equipo Directivo del centro.<br>
-        Pero también nos puedes encontrar en Redes Sociales o mantenerte informado de nuestras novedades a través de nuestro Canal de Telegram.
-    </div>
-    <div style="flex: 40%;">
-        ![Icono 1](ruta/icono1.png)<br>
-        ![Icono 2](ruta/icono2.png)<br>
-        ![Icono 3](ruta/icono3.png)<br>
-        ![Icono 4](ruta/icono4.png)
-    </div>
-</div>
-
+<a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-themes" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a><br><a class="github-button" href="https://github.com/wowchemy/starter-hugo-online-course" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Online Course template">Star the Online Course template</a><script async defer src="https://buttons.github.io/buttons.js"></script>
